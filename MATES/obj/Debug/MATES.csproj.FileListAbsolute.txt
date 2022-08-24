@@ -1,0 +1,10 @@
+C:\Users\steven\source\repos\MATES\MATES\bin\Debug\MATES.exe.config
+C:\Users\steven\source\repos\MATES\MATES\bin\Debug\MATES.exe
+C:\Users\steven\source\repos\MATES\MATES\bin\Debug\MATES.pdb
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.csproj.AssemblyReference.cache
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.Form1.resources
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.Properties.Resources.resources
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.csproj.GenerateResource.cache
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.exe
+C:\Users\steven\source\repos\MATES\MATES\obj\Debug\MATES.pdb
